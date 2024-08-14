@@ -6,6 +6,11 @@ https://clash-verge-rev.github.io/install.html
 
 https://github.com/louwangzhiyu007/louwangzhiyu/releases/tag/v1.7.5
 
+### 视频教程
+https://wd.louwangzhiyu.xyz/videos/%E6%9C%BA%E5%9C%BA%E8%AE%A2%E9%98%85%E5%8F%8A%E5%AF%BC%E5%85%A5.mp4
+如打不开链接，可以查看项目images文件夹中的附件
+
+
 
 ### 订阅购买
 
@@ -50,8 +55,24 @@ https://github.com/louwangzhiyu007/louwangzhiyu/releases/tag/v1.7.5
 ![](images/订阅链接导入005.png)
 
 
-###视频教程
-https://github.com/louwangzhiyu001/louwangzhiyu/blob/main/images/%E6%9C%BA%E5%9C%BA%E8%AE%A2%E9%98%85%E5%8F%8A%E5%AF%BC%E5%85%A5.mp4
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
