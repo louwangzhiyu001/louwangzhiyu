@@ -99,9 +99,9 @@ https://wd.louwangzhiyu.xyz/videos/V2rayN%E5%AE%A2%E6%88%B7%E7%AB%AF%E5%AF%BC%E5
 
 双击运行把刚刚复制的订阅地址导入
 
-![](images\v2rayn订阅导入003.png)
+![](images/v2rayn订阅导入003.png)
 
-![](images\v2rayn订阅导入004.png)
+![](images/v2rayn订阅导入004.png)
 
 
 
@@ -109,19 +109,19 @@ https://wd.louwangzhiyu.xyz/videos/V2rayN%E5%AE%A2%E6%88%B7%E7%AB%AF%E5%AF%BC%E5
 
 
 
-![](images\v2rayn订阅导入005.png)
+![](images/v2rayn订阅导入005.png)
 
 
 
 可以看到订阅成功了，这里我们要等到插件下载完成
 
-![](images\v2rayn订阅导入006.png)
+![](images/v2rayn订阅导入006.png)
 
 
 
 这里选一个节点设置成活动服务器，也可以不设置 
 
-![](images\v2rayn订阅导入007.png)
+![](images/v2rayn订阅导入007.png)
 
 
 
@@ -129,10 +129,10 @@ https://wd.louwangzhiyu.xyz/videos/V2rayN%E5%AE%A2%E6%88%B7%E7%AB%AF%E5%AF%BC%E5
 
 不需要翻墙的时候选清除系统代理
 
-![](images\v2rayn订阅导入008.png)
+![](images/v2rayn订阅导入008.png)
 
 
 
 可以看到图标变红了，可以翻墙了。红色是正在使用代理，蓝色是没有使用代理
 
-![](images\v2rayn订阅导入009.png)
+![](images/v2rayn订阅导入009.png)
