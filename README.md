@@ -1,5 +1,5 @@
 ### 机场网址
-https://tz.louwangzhiyu.xyz
+https://www.louwangzhiyu.xyz
 
 ### 客户端下载链接
 
@@ -31,7 +31,13 @@ https://wd.louwangzhiyu.xyz/videos/%E6%9C%BA%E5%9C%BA%E8%AE%A2%E9%98%85%E5%8F%8A
 
 https://wd.louwangzhiyu.xyz/videos/V2rayN%E5%AE%A2%E6%88%B7%E7%AB%AF%E5%AF%BC%E5%85%A5%E8%AE%A2%E9%98%85.mp4
 
+#### 安卓V2rayNG
 
+[wd.louwangzhiyu.xyz/videos/v2rayNG导入订阅.mp4](https://wd.louwangzhiyu.xyz/videos/v2rayNG导入订阅.mp4)
+
+#### iPhone客户端Shadowrocket
+
+[wd.louwangzhiyu.xyz/videos/苹果手机Shadowrocket导入订阅.mp4](https://wd.louwangzhiyu.xyz/videos/苹果手机Shadowrocket导入订阅.mp4)
 
 如打不开链接，可以查看项目images文件夹中的附件
 
@@ -136,3 +142,76 @@ https://wd.louwangzhiyu.xyz/videos/V2rayN%E5%AE%A2%E6%88%B7%E7%AB%AF%E5%AF%BC%E5
 可以看到图标变红了，可以翻墙了。红色是正在使用代理，蓝色是没有使用代理
 
 ![](images/v2rayn订阅导入009.png)
+
+
+
+### 安卓手机客户端V2rayNG导入订阅
+
+![](images/V2rayNG导入订阅01.jpg)
+
+
+
+![](images/V2rayNG导入订阅02.jpg)
+
+
+
+![](images/V2rayNG导入订阅03.jpg)
+
+
+
+![](images/V2rayNG导入订阅04.jpg)
+
+
+
+### iPhone客户端Shadowrocket导入订阅
+
+
+
+![](images/iPhone客户端Shadowrocket导入订阅001.PNG)
+
+
+
+![](images/iPhone客户端Shadowrocket导入订阅002.PNG)
+
+
+
+![](images/iPhone客户端Shadowrocket导入订阅003.PNG)
+
+
+
+![](images/iPhone客户端Shadowrocket导入订阅004.PNG)
+
+
+
+![](images/iPhone客户端Shadowrocket导入订阅005.PNG)
+
+
+
+![](images/iPhone客户端Shadowrocket导入订阅006.PNG)
+
+
+
+![](images/iPhone客户端Shadowrocket导入订阅007.PNG)
+
+
+
+![](images/iPhone客户端Shadowrocket导入订阅008.PNG)
+
+
+
+![](images/iPhone客户端Shadowrocket导入订阅009.PNG)
+
+
+
+![](images/iPhone客户端Shadowrocket导入订阅011.PNG)
+
+
+
+订阅更新
+
+![](images/iPhone客户端Shadowrocket订阅更新.PNG)
+
+
+
+![](images/iPhone客户端Shadowrocket连通性测试.PNG)
+
