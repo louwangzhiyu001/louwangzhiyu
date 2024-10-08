@@ -1,5 +1,4 @@
 ### 机场网址
-https://fq.louwangzhiyu.xyz
 
 https://ch.louwangzhiyu.xyz
 
