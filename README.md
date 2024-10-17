@@ -1,8 +1,9 @@
 ### 机场网址
+vt.louwangzhiyu.xyz
 
-https://ch.louwangzhiyu.xyz
+dz.louwangzhiyu.xyz
 
-https://dl.louwangzhiyu.xyz
+mz.louwangzhiyu.xyz
 
 ### 客户端下载链接
 
