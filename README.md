@@ -1,3 +1,9 @@
+
+### 视频教程
+
+https://youtu.be/sPTe8JFwGYA
+
+
 ### 机场网址
 
 
@@ -14,8 +20,27 @@ https://ch.owokkvsxks.store
 
 ### 客户端下载链接
 
-#### Clash(推荐)
+#### Karing(推荐)
 
+
+项目地址：
+https://github.com/KaringX/karing
+
+##### iOS(iPhone/iPad)/MacOS/TvOS(Apple TV)
+
+https://apps.apple.com/us/app/karing/id6472431552
+
+##### Android/Harmony
+
+https://github.com/KaringX/karing/releases/download/v1.0.33.446/karing_1.0.33.446_android_arm.apk
+
+##### Windows
+
+https://github.com/KaringX/karing/releases/download/v1.0.33.446/karing_1.0.33.446_windows_x64.exe
+https://github.com/KaringX/karing/releases/download/v1.0.33.446/karing_1.0.33.446_windows_x64.zip
+
+
+#### Clash
 https://clash-verge-rev.github.io/install.html
 
 https://github.com/louwangzhiyu007/louwangzhiyu/releases/tag/v1.7.5
