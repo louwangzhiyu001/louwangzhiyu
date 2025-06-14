@@ -69,6 +69,12 @@
 ------
 
 
+<iframe style="width:100%;height:auto;min-width:600px;min-height:400px;" src="https://www.star-history.com/embed?secret=Z2hwX3lyeWU1ZDY5QmtHdXVsRXRib3ZPNFQ1NnVZS25QWDRCMVZmcA==#louwangzhiyu001/louwangzhiyu&Date" frameBorder="0"></iframe>
+
+
+------
+
+
 - ### 💎[视频教程](https://youtu.be/sPTe8JFwGYA)💎
 
 #### [clash](https://wd.louwangzhiyu.xyz/videos/%E6%9C%BA%E5%9C%BA%E8%AE%A2%E9%98%85%E5%8F%8A%E5%AF%BC%E5%85%A5.mp4)
