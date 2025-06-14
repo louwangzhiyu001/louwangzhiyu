@@ -29,6 +29,13 @@
 
 ------
 
+- ## Star 收藏人数
+
+[![Star History Chart](https://api.star-history.com/svg?repos=louwangzhiyu001/louwangzhiyu&type=Date)](https://www.star-history.com/#louwangzhiyu001/louwangzhiyu&Date)
+
+------
+
+
 - ### 🛫[机场网址](https://daohang.louwangzhiyu.xyz/)🛫
 备用:  
 
@@ -67,8 +74,6 @@
 ⚠️要依赖国外插件,不推荐使用
 
 ------
-
-
 
 
 ------
