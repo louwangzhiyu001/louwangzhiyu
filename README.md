@@ -21,7 +21,7 @@
 </div>
 
 <div align="center"><strong>
-⚠️使用教程: https://github.com/louwangzhiyu001/louwangzhiyu/wiki ⚠️
+✅使用教程: https://github.com/louwangzhiyu001/louwangzhiyu/wiki 🛫
 </strong>
 
 </div>
