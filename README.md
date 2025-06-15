@@ -8,8 +8,20 @@
 </div>
         
 <div align="center"><strong>
-💎订阅聊天: <<img alt="Static Badge" src="https://img.shields.io/badge/Chat-Louwang?style=flat&logo=%2300A1D6&logoColor=%232200ff&logoSize=auto&label=Telegram&labelColor=%230099e6&color=%23ffffff&link=https%3A%2F%2Ft.me%2FbcXtdO28">>  
-💎查看公告: <<img alt="Static Badge" src="https://img.shields.io/badge/Notice-Louwang?style=flat&logo=%2300A1D6&logoColor=%232200ff&logoSize=auto&label=Telegram&labelColor=%237e00e6&color=%23ffffff&link=https%3A%2F%2Ft.me%2FbcXtdO28">>
+💎聊天群聊: <img alt="Static Badge" src="https://img.shields.io/badge/Chat-Louwang?style=flat&logo=%2300A1D6&logoColor=%232200ff&logoSize=auto&label=Telegram&labelColor=%230099e6&color=%23ffffff&link=https%3A%2F%2Ft.me%2FbcXtdO28">https://t.me/bcXtdO28💎 
+    </strong>
+</div>
+
+<div align="center"><strong>
+💎查看公告: <img alt="Static Badge" src="https://img.shields.io/badge/Notice-Louwang?style=flat&logo=%2300A1D6&logoColor=%232200ff&logoSize=auto&label=Telegram&labelColor=%237e00e6&color=%23ffffff&link=https%3A%2F%2Ft.me%2FbcXtdO28">https://t.me/bcXtdO28💎 
+</strong>
+
+</div>
+
+</div>
+
+<div align="center"><strong>
+⚠️使用教程: https://github.com/louwangzhiyu001/louwangzhiyu/wiki ⚠️
 </strong>
 
 </div>
