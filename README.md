@@ -56,9 +56,8 @@
 
 
 
-- ### [🚀软件下载&问题反馈🚀](https://github.com/louwangzhiyu001/louwangzhiyu/wiki)
-- 请查看我们的wiki,在右侧有软件下载链接,官网以及问题反馈!
-- 问题反馈请在Issues页面,点击右上角绿色的New issue,填写后提交问题!!!
+- ### [🚀软件下载🚀](https://github.com/louwangzhiyu001/louwangzhiyu/wiki/%E2%9A%A0%EF%B8%8F%E4%BD%BF%E7%94%A8%E6%95%99%E7%A8%8B)
+- 根据您的设备选择不同的代理软件,导入套餐后即可开始畅享 !
 
 ------
 ------
