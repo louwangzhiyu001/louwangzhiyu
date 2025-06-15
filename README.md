@@ -73,7 +73,7 @@
 
 <div align="center">
     <h2> 
-        < Star收藏人数 >
+        < ⭐Star收藏人数⭐ >
     </h2>
 </div>
             
