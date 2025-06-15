@@ -15,7 +15,7 @@
 </div>
         
 
-
+------
 -----
 
 - ### 选我们,准没错✅
@@ -28,11 +28,6 @@
 ***✅匿名注册: 不用担心隐私问题!***
 
 ------
-
-- ## Star 收藏人数
-
-[![Star History Chart](https://api.star-history.com/svg?repos=louwangzhiyu001/louwangzhiyu&type=Date)](https://www.star-history.com/#louwangzhiyu001/louwangzhiyu&Date)
-
 ------
 
 
@@ -45,9 +40,13 @@
 >https://tz.vfkum.website/
 
 
+
+
 -----
 
 -----
+
+
 
 - ### 🚀客户端下载链接🚀
 
@@ -70,7 +69,17 @@
 ⚠️要依赖国外插件,不推荐使用
 
 ------
+------
 
+<div align="center">
+    <h2> 
+        < Star收藏人数 >
+    </h2>
+</div>
+            
+[![Star History Chart](https://api.star-history.com/svg?repos=louwangzhiyu001/louwangzhiyu&type=Date)](https://www.star-history.com/#louwangzhiyu001/louwangzhiyu&Date)
+
+------
 
 ------
 
