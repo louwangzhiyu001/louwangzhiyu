@@ -30,7 +30,7 @@
 ----
 
 - ### [🛫漏网之鱼Wiki🚀](https://github.com/louwangzhiyu001/louwangzhiyu/wiki)
-- #### 不妨来我们的wiki参观参观,可能会有帮助喔 !!!
+- #### 不妨来我们的wiki参观参观,有各种问题和解决办法!对你可能会有帮助喔 !!!
 
 -----
 -----
